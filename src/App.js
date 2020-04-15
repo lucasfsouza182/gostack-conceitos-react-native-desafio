@@ -55,7 +55,7 @@ export default function App() {
           <Text
             style={styles.likeText}
             testID={`repository-likes-${repository.id}`}>
-            {repository.likes} curtida(s)
+            {repository.likes} curtidas
           </Text>
         </View>
         
